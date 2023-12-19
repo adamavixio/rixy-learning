@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "text": "Grocery shopping",
+        "done": false,
+        "name": "Alice",
+        "deleted": false
+    },
+    {
+        "id": 2,
+        "text": "Finish project report",
+        "done": true,
+        "name": "Bob",
+        "deleted": false
+    },
+    {
+        "id": 3,
+        "text": "Call the plumber",
+        "done": false,
+        "name": "Charlie",
+        "deleted": false
+    },
+    {
+        "id": 4,
+        "text": "Schedule dentist appointment",
+        "done": false,
+        "name": "Diana",
+        "deleted": true
+    },
+    {
+        "id": 5,
+        "text": "Buy birthday gift for Mom",
+        "done": true,
+        "name": "Ethan",
+        "deleted": false
+    },
+    {
+        "id": 6,
+        "text": "Prepare for the presentation",
+        "done": false,
+        "name": "Fiona",
+        "deleted": false
+    },
+    {
+        "id": 7,
+        "text": "Renew gym membership",
+        "done": true,
+        "name": "George",
+        "deleted": false
+    },
+    {
+        "id": 8,
+        "text": "Book flight tickets",
+        "done": false,
+        "name": "Hannah",
+        "deleted": true
+    },
+    {
+        "id": 9,
+        "text": "Attend parent-teacher meeting",
+        "done": false,
+        "name": "Ian",
+        "deleted": false
+    },
+    {
+        "id": 10,
+        "text": "Update antivirus software",
+        "done": true,
+        "name": "Julia",
+        "deleted": false
+    }
+]
